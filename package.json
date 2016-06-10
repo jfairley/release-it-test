@@ -1,0 +1,16 @@
+{
+  "name": "release-it-test",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfairley/release-it-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "http://levelsbeyond.artifactoryonline.com/levelsbeyond/api/npm/npm-repo"
+  },
+  "devDependencies": {
+    "release-it": "^2.3.1"
+  }
+}

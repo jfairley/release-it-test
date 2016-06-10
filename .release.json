@@ -1,0 +1,13 @@
+{
+  "verbose": true,
+  "buildCommand": "npm run build",
+  "src": {
+    "pushRepo": "origin"
+  },
+  "npm": {
+    "publish": false
+  },
+  "github": {
+    "release": true
+  }
+}
