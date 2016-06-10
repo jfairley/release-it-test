@@ -1,6 +1,5 @@
 {
   "verbose": true,
-  "buildCommand": "npm run build",
   "src": {
     "pushRepo": "origin"
   },
