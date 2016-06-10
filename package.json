@@ -11,6 +11,6 @@
     "registry": "http://levelsbeyond.artifactoryonline.com/levelsbeyond/api/npm/npm-repo"
   },
   "devDependencies": {
-    "release-it": "^2.3.1"
+    "release-it": "2.4.0"
   }
 }
